@@ -15,7 +15,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: orange;
+    color: blue;
 }
 h1 {
     font-size: 3em;
@@ -27,7 +27,7 @@ p {
     color: white;
 }
 h2{
-    color: orange;
+    color: blue;
 }
 footer {
     border-top: 1px solid #d5d5d5;
