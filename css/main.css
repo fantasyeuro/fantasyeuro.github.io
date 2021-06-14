@@ -15,10 +15,11 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: red;
+    color: green;
 }
 h1 {
     font-size: 3em;
+    color: green;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
@@ -28,7 +29,7 @@ p {
 }
 h2{
     font-size: 3em;
-    color: red;
+    color: green;
 }
 footer {
     border-top: 1px solid #d5d5d5;
