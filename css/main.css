@@ -15,11 +15,11 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: green;
+    color: red;
 }
 h1 {
     font-size: 3em;
-    color: pink;
+    color: red;
 }
 p {
     font-size: 1.5em;
@@ -28,7 +28,7 @@ p {
 }
 h2{
     font-size: 3em;
-    color: green;
+    color: red;
 }
 footer {
     border-top: 1px solid #d5d5d5;
