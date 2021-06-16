@@ -7,7 +7,6 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: normal;
-    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -21,19 +20,16 @@ h1 {
     font-family:'Bridge Type';
     font-size: 3em;
     color: red;
-    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 h2{
     font-family:'Bridge Type';
     font-size: 3em;
     color: red;
-    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: orange;
-    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 footer {
     border-top: 1px solid #d5d5d5;
